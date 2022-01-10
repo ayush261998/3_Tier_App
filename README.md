@@ -1,7 +1,7 @@
 # 3_Tier_App
 Process to setup the infrastructure for an Hello World application which has been Dockerized. 
     Dockerize the App.
-    This was interesting to learn since I had not got to use containers before so it was a good starting point to understand on how docker container works.
+    This was interesting to learn since I had not got to use containers before so it was a good starting point to understand on how docker container works and why modularity it brings is so important because I can easily build images and deploy them anywhere without having to configure the OS.(Should have docker installed as minimum)
     • Create a simple Node app and run it locally. (Pre req done)
     • Dockerize the Node app. (Pre req done)
     
